@@ -1,11 +1,11 @@
 # Prediction-of-mobile-price
- Here i attached a mobile prediction python program helping with machine learning. 
- In this program you will determined the next mobile price from given data 
+ Here i attached a mobile prediction python code using with machine learning Alogorithms. 
+ In this program you will predict the next mobile price from the given dataset.
  
  
  # machine Learning
  
- there is a simple machine learning program where i use the Pandas and Numpy.
+ there is a simple machine learning program where i did use the Pandas and Numpy.
 
 
 
